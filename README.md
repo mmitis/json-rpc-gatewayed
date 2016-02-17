@@ -1,0 +1,1 @@
+Lite library in ES6 to make JsonRPCRequests with the proxy(gateway) server.

@@ -1,0 +1,19 @@
+{
+  "name": "json-rpc",
+  "version": "1.0.0",
+  "description": "Handling easly requests by json-rpc protocol. Generates express framework routing",
+  "main": "json-rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Mitis",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
