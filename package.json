@@ -1,5 +1,5 @@
 {
-  "name": "json-rpc",
+  "name": "json-rpc-gatewayed",
   "version": "1.0.0",
   "description": "Handling easly requests by json-rpc protocol. Generates express framework routing",
   "main": "dist/index.js",
@@ -11,9 +11,9 @@
   "dependencies": {
     "request": "^2.69.0"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/mmitis/json-rpc-gatewayed.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmitis/json-rpc-gatewayed.git"
   },
   "devDependencies": {
     "babelify": "^7.2.0",
